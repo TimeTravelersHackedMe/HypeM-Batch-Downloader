@@ -2,7 +2,7 @@
 **Download all your favorites from HypeM.com at the same time!** :stuck_out_tongue_winking_eye: You can also download the favorites of any specified user. This NodeJS app will go through all your favorites pages and scrape the data. **It also adds tags (artist, title, and album art).** It uses the HypeM API to get album art and it deals with the errors you might encounter during the download process (like 404s and illegal file names).
 
 ## Instructions
-1. Download this repository
+1. Download this repository or run `git clone https://github.com/TimeTravelersHackedMe/HypeM-Batch-Downloader.git` if you have Git installed
 2. In the repo directory, run `npm install`
 3. Open app.js and change the line that says `var user = 'weirdpolice';` (it's at the top) to the user you want to download the favorites of
 4. Run `node app.js`
