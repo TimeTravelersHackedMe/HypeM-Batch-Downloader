@@ -12,8 +12,6 @@ If you come across an error for a particular song, take note of the location you
 
 Not all of the album art comes out perfect. HypeM doesn't do the best job at scraping album art so if you don't want to use HypeM's album art you can prevent the album art from saving. Do a search for `tags.image = albumArt;` and comment out that line if you wish to do this.
 
-Post any issues you might have here and I'll try to help out.
-
 ## Requirements
 1. NodeJS
 
