@@ -1,4 +1,4 @@
-# HypeM Batch Downloader
+# Download All Favorites HypeM
 **Download all your favorites from HypeM.com at the same time!** :stuck_out_tongue_winking_eye: You can also download the favorites of any specified user. This NodeJS app will go through all your favorites pages and scrape the data. **It also adds tags (artist, title, and album art).** It uses the HypeM API to get album art and it deals with the errors you might encounter during the download process (like 404s and illegal file names).
 
 ## Instructions
